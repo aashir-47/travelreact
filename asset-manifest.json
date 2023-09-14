@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travelreact/static/css/main.38621b79.css",
+    "main.js": "/travelreact/static/js/main.d96b749a.js",
+    "static/media/beachvideo.mp4": "/travelreact/static/media/beachvideo.5ecd1fae313f97b8b99f.mp4",
+    "static/media/beach5.jpg": "/travelreact/static/media/beach5.62067ca2095e26281013.jpg",
+    "static/media/beach2.jpg": "/travelreact/static/media/beach2.a45b0f11023b8d564eed.jpg",
+    "static/media/beach6.jpg": "/travelreact/static/media/beach6.076a84276c62ea3351b3.jpg",
+    "static/media/beach4.jpg": "/travelreact/static/media/beach4.71e4352dc5033fcf564e.jpg",
+    "static/media/beach7.jpg": "/travelreact/static/media/beach7.d2d7767bc9417df20985.jpg",
+    "static/media/beach3.jpg": "/travelreact/static/media/beach3.65343697c07b8440ff44.jpg",
+    "static/media/couple.jpg": "/travelreact/static/media/couple.f51ff2958dd46d7cafbf.jpg",
+    "index.html": "/travelreact/index.html",
+    "main.38621b79.css.map": "/travelreact/static/css/main.38621b79.css.map",
+    "main.d96b749a.js.map": "/travelreact/static/js/main.d96b749a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38621b79.css",
+    "static/js/main.d96b749a.js"
+  ]
+}
